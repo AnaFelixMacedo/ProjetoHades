@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.prodfundo {
+    padding-left: 620px;
+}
+.maisimg img{
+    border: solid #000000;
+    width: 100px;
+    height: 100px;
+}
+
+.maisimg {
+    padding-left: 100px;
+}
+
+#bone1 img {
+    border: solid #000000;
+    width: 650px;
+    height: auto;
+}
+
+#tabela {
+    padding-top: 100px;
+   
+}
+#tabela img {
+    border: solid #000000;
+    width: 650px;
+    height: auto;
+}
+
+.detalhes {
+    padding-top: 20px;
+    padding-left: 100px;
+    font-size: x-large;
+}
+
+body {
+    background-color: #ffffff;
+}
